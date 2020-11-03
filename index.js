@@ -52,16 +52,15 @@ inquirer
   ])
   .then(function (response) {
     let markdownData = `## ${response.title}
-
-## Table of Contents
-
-    - [Description](#description)
-    - [Installation](#installation)
-    - [License](#license)
-    - [Usage](#usage)
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [Questions](#questions)
+    ## Table of Contents
+    
+    [Description](#description]
+        - [Installation](#installation)
+        - [License](#license)
+        - [Usage](#usage)
+        - [Contributing](#contributing)
+        - [Tests](#tests)
+        - [Questions](#questions)
 
 ## Description
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -85,7 +84,7 @@ ${response.tests}
 
 ## Questions
     If you would like to learn more about me, this project or other projects I've completed,
-    please visit my Github profile here: 
+    please visit my Github profile here:
     [Github Profile](https://github.com/${response.username})
 
     It is understandable that questions may need to be answered regarding the aforementioned -
