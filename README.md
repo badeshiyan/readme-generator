@@ -2,7 +2,7 @@
 
 ## Overview:
 
-From the very beginning of our current bootcamp journey, it was made clear that the cornerstone of a good coding project is an effective, high-quality readme file. The readme serves as a formal introduction to the project, explaining the details of the project to the user. Typically, a readme contains sections that include, but are not limited to a title, description, screenshots and/or video sample of the deployed appliction, table of contents, installation, usage information, contributors and testing.
+From the very beginning of our current bootcamp journey, it was made clear that the cornerstone of a good coding project is an effective, high-quality readme file. The readme serves as a formal introduction to the project, explaining the details of the project to the user. Typically, a readme contains sections that include, but are not limited to a title, description, screenshots and/or video sample of the deployed application, table of contents, installation, usage information, contributors and testing.
 
 This project was created to show a developer can easily create a command-line application that dynamically generates a professional readme from the developer's input. This application was created using Node.js and javascript. Please find additional information regarding this project below. Thank you. 
 
