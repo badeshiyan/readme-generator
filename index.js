@@ -53,8 +53,7 @@ inquirer
   .then(function (response) {
     let markdownData = `## ${response.title}
     ## Table of Contents
-    
-    [Description](#description]
+    - [Description](#description]
         - [Installation](#installation)
         - [License](#license)
         - [Usage](#usage)
