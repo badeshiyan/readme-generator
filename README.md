@@ -1,16 +1,14 @@
 # readme-generator
 
-    ## d
+## Table of Content
 
-    ## Table of Contents
-
-    - [Description](#Description)
-    - [Installation](#installation)
-    - [License](#license)
-    - [Usage](#usage)
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [Questions](#questions)
+[Description](#description)
+[Installation](#installation)
+[License](#license)
+[Usage](#usage)
+[Contributing](#contributing)
+[Tests](#tests)
+[Questions](#questions)
 
 ## Description
 
