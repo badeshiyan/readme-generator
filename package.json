@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/badeshiyan/readme-generator#readme",
   "dependencies": {
-    "inquirer": "^7.3.3"
+    "inquirer": "^7.3.3",
+    "lorem-ipsum": "^2.0.3"
   }
 }
