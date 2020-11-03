@@ -52,14 +52,13 @@ inquirer
   ])
   .then(function (response) {
     let markdownData = `## ${response.title}
-    ## Table of Contents
-    - [Description](#description]
-        - [Installation](#installation)
-        - [License](#license)
-        - [Usage](#usage)
-        - [Contributing](#contributing)
-        - [Tests](#tests)
-        - [Questions](#questions)
+[Description](#description)
+[Installation](#installation)
+[License](#license)
+[Usage](#usage)
+[Contributing](#contributing)
+[Tests](#tests)
+[Questions](#questions)
 
 ## Description
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
