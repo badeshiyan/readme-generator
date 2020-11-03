@@ -52,13 +52,13 @@ inquirer
   ])
   .then(function (response) {
     let markdownData = `## ${response.title}
-[Description](#description)
-[Installation](#installation)
-[License](#license)
-[Usage](#usage)
-[Contributing](#contributing)
-[Tests](#tests)
-[Questions](#questions)
+* [Description](#description)
+* [Installation](#installation)
+* [License](#license)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 
 ## Description
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -81,12 +81,9 @@ ${response.contributing}
 ${response.tests}
 
 ## Questions
-    If you would like to learn more about me, this project or other projects I've completed,
-    please visit my Github profile here:
-    [Github Profile](https://github.com/${response.username})
+If you would like to learn more about me, this project or other projects I've completed, please visit my Github profile here: [Github Profile](https://github.com/${response.username})
 
-    It is understandable that questions may need to be answered regarding the aforementioned -
-    please send all questions to my email address: ${response.email}`;
+It is understandable that questions may need to be answered regarding the aforementioned, please send all questions to my email address: ${response.email}`;
 
     fs.writeFileSync("newreadme.md", markdownData);
   });
