@@ -1,11 +1,12 @@
 ## Readme Generator
-* [Description](#description)
-* [Installation](#installation)
-* [License](#license)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions](#questions)
+- [Readme Generator](#readme-generator)
+- [Description](#description)
+- [Installation](#installation)
+- [License](#license)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Description
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)

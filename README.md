@@ -1,24 +1,29 @@
-## weather-dashboard
+## readme-generator
 
 ## Overview:
 
-This project involves the building of a dynamic weather dashboard. The application utilizes and retrieves current city data from the OpenWeather API.
+From the very beginning of our current bootcamp journey, it was made clear that the cornerstone of a good coding project is an effective, high-quality readme file. The readme serves as a formal introduction to the project, explaining the details of the project to the user. Typically, a readme contains sections that include, but are not limited to a title, description, screenshots and/or video sample of the deployed appliction, table of contents, installation, usage information, contributors and testing.
+
+This project was created to show a developer can easily create a command-line application that dynamically generates a professional readme from the developer's input. This application was created using Node.js and javascript. Please find additional information regarding this project below. Thank you. 
 
 ## Video of Application User Flow
 
 
 
-## Screenshots of Deployed Webpage
+## Screenshots of Source Code
 
-![Adeshiyan Readme Generator](./assets/weatherdashboard.png)
+![Adeshiyan Readme Generator](./assets/readmesnapshot1.png)
+![Adeshiyan Readme Generator](./assets/readmesnapshot2.png)
 
 ## Credits
 
-1. Node.js: https://nodejs.dev/
+1. Node.js: https://nodejs.dev/learn/the-nodejs-fs-module
 
 2. W3schools: https://www.w3schools.com/
 
 3. MDN web docs: https://developer.mozilla.org/en-US/docs/Web/CSS
+
+4. Youtube.com: https://www.youtube.com/watch?v=TlB_eWDSMt4
 
 ## MIT License
 
