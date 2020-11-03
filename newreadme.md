@@ -1,32 +1,31 @@
-## hello
-- [hello](#hello)
-- [Description](#description)
-- [Installation](#installation)
-- [License](#license)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
+## Readme Generator
+* [Description](#description)
+* [Installation](#installation)
+* [License](#license)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 
 ## Description
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-hello
+Description of the project will go here.
 
 ## Installation
-hello
+To install, type npm install or npm i
 
 ## License
 MIT
 
 ## Usage
-hello
+Usage here
 
 ## Contributing
-hello
+contributors here
 
 ## Tests
-hello
+no tests were used.
 
 ## Questions
 If you would like to learn more about me, this project or other projects I've completed, please visit my Github profile here: [Github Profile](https://github.com/badeshiyan)
