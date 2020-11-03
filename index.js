@@ -1,6 +1,8 @@
+// declaring variables here
 const inquirer = require("inquirer");
 const fs = require("fs");
 
+// established inquirer prompts for the user's inputs/responses
 inquirer
   .prompt([
     {
@@ -50,6 +52,7 @@ inquirer
       name: "email",
     },
   ])
+  // markdown data here
   .then(function (response) {
     let markdownData = `## ${response.title}
 * [Description](#description)
@@ -85,5 +88,6 @@ If you would like to learn more about me, this project or other projects I've co
 
 It is understandable that questions may need to be answered regarding the aforementioned, please send all questions to my email address: ${response.email}`;
 
+    // synchronous method to write to file
     fs.writeFileSync("newreadme.md", markdownData);
   });
