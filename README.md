@@ -8,7 +8,7 @@ This project was created to show a developer can easily create a command-line ap
 
 ## Video of Application User Flow
 
-
+![Adeshiyan Readme Video](./assets/samplevideo.gif)
 
 ## Screenshots of Source Code and Generated Sample ReadMe
 
