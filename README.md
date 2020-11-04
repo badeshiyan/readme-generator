@@ -10,20 +10,23 @@ This project was created to show a developer can easily create a command-line ap
 
 
 
-## Screenshots of Source Code
+## Screenshots of Source Code and Generated Sample ReadMe
 
 ![Adeshiyan Readme Generator](./assets/readmesnapshot1.png)
 ![Adeshiyan Readme Generator](./assets/readmesnapshot2.png)
+![Adeshiyan Readme Generator](./assets/samplereadme1.png)
 
 ## Credits
 
 1. Node.js: https://nodejs.dev/learn/the-nodejs-fs-module
 
-2. W3schools: https://www.w3schools.com/
+2. NPM - Inquirer: https://www.npmjs.com/package/inquirer#prompt
 
-3. MDN web docs: https://developer.mozilla.org/en-US/docs/Web/CSS
+3. W3schools: https://www.w3schools.com/
 
-4. Youtube.com: https://www.youtube.com/watch?v=TlB_eWDSMt4
+4. MDN web docs: https://developer.mozilla.org/en-US/docs/Web/CSS
+
+5. Youtube.com: https://www.youtube.com/watch?v=TlB_eWDSMt4
 
 ## MIT License
 

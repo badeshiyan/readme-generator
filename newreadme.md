@@ -1,4 +1,4 @@
-## Bambo's README Generator
+## Bambo's Readme Generator
 * [Description](#description)
 * [Installation](#installation)
 * [License](#license)
